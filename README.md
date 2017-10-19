@@ -1,4 +1,8 @@
 # Certbot Cloudflare
+[![GitHub forks](https://img.shields.io/github/forks/horjulf/docker-certbot_cloudflare.svg?style=social&label=Fork&style=flat-square)](https://github.com/horjulf/docker-certbot_cloudflare)
+[![Docker Pulls](https://img.shields.io/docker/pulls/horjulf/certbot-cloudflare.svg)](https://hub.docker.com/r/horjulf/certbot-cloudflare/)
+[![](https://images.microbadger.com/badges/image/horjulf/certbot-cloudflare.svg)](https://microbadger.com/images/horjulf/certbot-cloudflare)
+
 This image provides the official Certbot utility with the Cloudflare DNS plugin builtin.
 
 ## Usage
